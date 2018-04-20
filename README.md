@@ -1,7 +1,3 @@
 # Materials for NLP course
 
-NLPクラスにようこそ．
-
-普段からgitを使っている方は，このリポジトリをcloneしてください．
-gitを使わない方は，右上の緑のボタンを押せばzipファイルとしてこのリポジトリをダウンロードすることができます．
-
+Welcome to Natural Language Processing course.
